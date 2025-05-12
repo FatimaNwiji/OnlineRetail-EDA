@@ -30,13 +30,13 @@ Installation:
 To run this project locally:
 
 1. Clone the repository:
-   git clone https://github.com/FatimaNwiji/OnlineRetail-EDA.git
+   `git clone https://github.com/FatimaNwiji/OnlineRetail-EDA.git`
 
 2. Install the necessary libraries:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 3. Run the Jupyter notebook to explore the data:
-   jupyter notebook
+   `jupyter notebook`
 
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
